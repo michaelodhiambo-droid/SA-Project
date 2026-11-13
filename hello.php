@@ -1,2 +1,2 @@
 <?php
-echo "Version 1 - function executed at " . date('c');
+echo "Version 2 - function executed at " . date('c');
